@@ -1,0 +1,3 @@
+VUE_APP_ENV=PRODUCTION
+VUE_APP_BASE_URL=http://david.localhost:8000
+VUE_APP_BASE_URL_API=http://david.localhost
