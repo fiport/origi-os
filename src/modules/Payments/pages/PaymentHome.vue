@@ -1,11 +1,11 @@
 <template>
     <div>
-        <h1>Dashboard</h1>
+        <h1>Pagamentos</h1>
     </div>
 </template>
 
 <script>
 export default {
-    name: 'app-dashboard'
+    name: 'app-payments'
 }
 </script>
